@@ -1,2 +1,4 @@
-# xfce4-config
+# Official xfce4 config for BlackTrack
+
+
 Xfce4 config for BlackTrack
